@@ -175,11 +175,14 @@ DLL Maker是一个有远大愿景的开源项目，旨在**打破编程语言壁
 - 制作高质量的教程和文档
 - 举办技术分享和社区活动
 ## 📞 联系资助
-- **GitHub Sponsors**: 审核通过后开启[赞助 @hengdulife](https://github.com/sponsors/hengdulife)
-### 资金支持（筹备中）：
+- **GitHub Sponsors**: 审核通过后开启
+### 资金支持（直接捐赠）：
 - **支付宝/微信**：扫描下方二维码
-![支付宝收款码](https://hengdu.life/shoukuan.jpg)
-![微信收款码](https://hengdu.life/shoukuan.jpg)
+**支付宝**：
+<img src="https://hengdu.life/zhifubao.jpg" alt="支付宝收款码" width="200" height="200">
+
+**微信支付**：
+<img src="https://hengdu.life/shoukuan.jpg" alt="微信收款码" width="200" height="200">
 - **企业合作**: hengdulife@163.com
 - **技术咨询**: 微信 hengdulife
 
