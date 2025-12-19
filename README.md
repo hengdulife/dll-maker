@@ -45,7 +45,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hengdulife/dll-maker/main/public/images/screenshot.png" alt="DLL Maker 界面截图" width="800">
+  <img src="https://www.hengdu.life/dll/1.png" alt="DLL Maker 界面截图1" width="800">
+  <img src="https://www.hengdu.life/dll/2.png" alt="DLL Maker 界面截图2" width="800">
   <br>
   <em>可视化DLL配置界面 - 拖拽式函数定义，一键跨平台编译</em>
 </p>
